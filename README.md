@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AwaisJamil</h1>
+<h1 align="center">Hi 👋, I'm Awais Jamil</h1>
 <h3 align="center">"Crafting Tomorrow's Solutions for a Digitally Transformed World
 "</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"
